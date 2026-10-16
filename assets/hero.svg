@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">victorhsn — Building software. Understanding intelligence.</title>
+<desc id="desc">Minimal navy editorial banner with white and electric blue typography and orange accent.</desc>
+<rect width="1200" height="400" fill="#07111F"/>
+<text x="70" y="67" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">victorhsn<tspan fill="#FF641E">.</tspan></text>
+<text x="70" y="177" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="57" font-weight="750" letter-spacing="-2" fill="#FFFFFF">Building software.</text>
+<text x="70" y="244" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="57" font-weight="750" letter-spacing="-2" fill="#54C7FF">Understanding intelligence<tspan fill="#FF641E">.</tspan></text>
+<rect x="70" y="327" width="34" height="3" rx="1.5" fill="#FF641E"/>
+<text x="120" y="332" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="1.2" fill="#B6C5D6">SOFTWARE ENGINEERING · AI/ML · COMPUTER VISION</text>
+</svg>
