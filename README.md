@@ -45,6 +45,7 @@ I publish engineering notes, technical articles, and educational materials throu
 ### Latest Articles
 
 [A Task That Requires More Than a Response](https://victorhsn.com/articles/a-task-that-requires-more-than-a-response)
+
 [Using Artificial Intelligence with Intelligence](https://victorhsn.com/articles/using-artificial-intelligence-with-intelligence)
 
 [Browse all articles](https://victorhsn.com/articles)
