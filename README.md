@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@victorhsndotcom"><img src="./assets/youtube.svg" alt="" width="17" height="17" /></a> <a href="https://www.youtube.com/@victorhsndotcom">YouTube</a>
 </p>
 
-## Hi, I'm Victor.
+## Hi, I'm Victor Nunes.
 
 I'm a Senior Software Engineer with **17+ years of experience building distributed backend systems in .NET/C#**, including shipping LLM-powered agents to production.
 
