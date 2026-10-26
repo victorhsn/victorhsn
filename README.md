@@ -44,8 +44,8 @@ I publish engineering notes, technical articles, and educational materials throu
 
 ### Latest Articles
 
-[Building an Agent Without Framework](https://victorhsn.com/articles/building-an-ai-agent-without-framework)
-[When Do AI Agents Make Sense?](https://victorhsn.com/articles/when-do-ai-agents-make-sense)
+[Building an Agent Without Framework](https://victorhsn.com/articles/building-an-ai-agent-without-framework) \
+[When Do AI Agents Make Sense?](https://victorhsn.com/articles/when-do-ai-agents-make-sense) \
 [Why AI Agents Exist?](https://victorhsn.com/articles/why-ai-agents-exist) \
 [A Task That Requires More Than a Response](https://victorhsn.com/articles/a-task-that-requires-more-than-a-response) \
 [Using Artificial Intelligence with Intelligence](https://victorhsn.com/articles/using-artificial-intelligence-with-intelligence) \
